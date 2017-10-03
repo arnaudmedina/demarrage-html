@@ -10,3 +10,15 @@ border : 2px solid black;
 padding : 2px 2px;
 text-align : center;
 }
+
+label {
+	width : 150px;
+	display : inline-block;
+}
+
+fieldset {
+	
+
+    background-color: #FFFEDB; /* Le fond de la page sera noir */
+  
+}
